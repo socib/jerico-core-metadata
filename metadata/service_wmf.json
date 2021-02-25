@@ -10,7 +10,7 @@
     "software": {
         "_class": "SoftwareApplication",
         "alias": "https://github.com/socib/water-mass-transport"
-    }
+    },
     "provider": {
         "_class": "Organization",
         "alias": "https://edmo.seadatanet.org/report/3410"
@@ -18,7 +18,7 @@
     "owner": {
         "_class": "Organization",
         "alias": "https://edmo.seadatanet.org/report/3410"
-    }
+    },
     "temporal": {
         "_class": "PeriodOfTime",
         "startDate": "2021-01-01"
@@ -29,6 +29,6 @@
     },
     "project": {
         "_class": "Project",
-        "name"" "JERICO-RI"
+        "name": "JERICO-RI"
     }
 }

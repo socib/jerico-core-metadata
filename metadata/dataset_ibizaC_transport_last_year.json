@@ -1,5 +1,5 @@
 {
-    "_class": "Dataset"
+    "_class": "Dataset",
     "alias": "SUBREG_MED_INDICATORS/Figures/lastyear_SOCIB_transports_IbizaChannel.png",
     "title": "Transports over the last year in the Ibiza channel",
     "description": "Northward (positive) and southward (negative) water mass transports integrated for each transect monitored in the Ibiza Channels over the last year",
@@ -36,7 +36,7 @@
     "service": {
         "_class": "Service",
         "alias": "d2pts-glider-service"
-    }
+    },
     "software": {
         "_class: "SoftwareApplication",
         "alias": "https://github.com/socib/water-mass-transport"

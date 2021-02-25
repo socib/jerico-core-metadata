@@ -1,5 +1,5 @@
 {
-    "_class": "Dataset"
+    "_class": "Dataset",
     "alias": "SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201102.png",
     "title": "Transports over the last decade in the Mallorca channel",
     "description": "Northward (positive) and southward (negative) water mass transports integrated for each transect monitored in the Mallorca Channels since 2011",
@@ -36,7 +36,7 @@
     "service": {
         "_class": "Service",
         "alias": "d2pts-glider-service"
-    }
+    },
     "software": {
         "_class: "SoftwareApplication",
         "alias": "https://github.com/socib/water-mass-transport"
