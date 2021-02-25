@@ -38,7 +38,7 @@
         "alias": "d2pts-glider-service"
     },
     "software": {
-        "_class: "SoftwareApplication",
+        "_class": "SoftwareApplication",
         "alias": "https://github.com/socib/water-mass-transport"
     }
 }
