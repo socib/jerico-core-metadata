@@ -1,0 +1,23 @@
+{
+    "_class": "Document",
+    "alias": "Accepted-Frontiers-ID", 
+    "title": "Multi-variate sub-regional indicators in the Mediterranean Sea: from event detection to climate change estimations."
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Mélanie Juza"
+        },
+        {
+            "_class": "Person",
+            "name": "Joaquín Tintoré"
+        }
+    ],
+    "created": "2021-01-01",
+    "publiser": {
+        "_class": "Organization",
+        "alias": "Frontiers"
+    },
+    "pages": 7,
+    "software": "https://github.com/socib/water-mass-transport",
+    "dataset": ["SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_IbizaChannel_since201101.png","SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201101.png"]
+}

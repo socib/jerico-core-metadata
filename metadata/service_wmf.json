@@ -1,0 +1,34 @@
+{
+    "_class": "Service",
+    "alias": "d2pts-glider-service",
+    "name": "Water mass transport calculation service",
+    "serviceType": "D2PTS",
+    "description": "This service calculates the water mass flow from glider profiles",
+    "url": "https://www.socib.es/?seccion=textes&id_textotextes=localizacion",
+    "accessMode": "Under Request",
+    "equipmentType": "glider",
+    "software": {
+        "_class": "SoftwareApplication",
+        "alias": "https://github.com/socib/water-mass-transport"
+    }
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    }
+    "temporal": {
+        "_class": "PeriodOfTime",
+        "startDate": "2021-01-01"
+    },
+    "contact": {
+        "_class": "Person",
+        "name": "Mélanie Juza"
+    },
+    "project": {
+        "_class": "Project",
+        "name"" "JERICO-RI"
+    }
+}

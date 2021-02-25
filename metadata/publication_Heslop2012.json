@@ -1,0 +1,51 @@
+{
+    "_class": "Document",
+    "alias": "10.1029/2012GL053717", 
+    "title": "Autonomous underwater gliders monitoring variability at 'choke points' in our ocean system: A case study in the Western Mediterranean Sea.",
+    "abstract": "[1] Recent data from an autonomous ocean glider in the Ibiza Channel (Western Mediterranean Sea) show variations in the transport volumes of water over timescales of days‐weeks, as large as those previously only identifiable as seasonal or eddy driven. High frequency variation in transports of water masses has critical implications for ocean forecasting. Three potential modes of transport are proposed, which have the potential to simplify the previously observed complex pattern of flows. Restricted ‘choke points’ between ocean basins are critical locations to monitor water transport variability; the Ibiza Channel is one such ‘choke point’, where variation in the transports of water masses are known to affect the spawning grounds of commercially important fish stocks.",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Emma Heslop"
+        },
+        {
+            "_class": "Person",
+            "name": "Simón Ruiz"
+        },
+        {
+            "_class": "Person",
+            "name": "John Allen"
+        },        {
+            "_class": "Person",
+            "name": "Jose Luis López Jurado"
+        },        {
+            "_class": "Person",
+            "name": "John Allen"
+        },        {
+            "_class": "Person",
+            "name": "Lionel Renault"
+        },
+        {
+            "_class": "Person",
+            "name": "Joaquín Tintoré"
+        }
+    ],
+    "created": "2012-10-24",
+    "modified": "2014-12-14",
+    "url": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
+    "published": "2012-10-01",
+    "publiser": {
+        "_class": "Organization",
+        "alias": "Geophysical Research Letters"
+    },
+    "pages": 7,
+    "software": "https://github.com/socib/water-mass-transport",
+    "dataset": "SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_IbizaChannel_since201101.png",
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053717",
+        "bytesize": 573245,
+        "format": "pdf",
+        "mimetype": "application/pdf",
+    }
+}

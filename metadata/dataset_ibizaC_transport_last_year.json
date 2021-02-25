@@ -1,0 +1,44 @@
+{
+    "_class": "Dataset"
+    "alias": "SUBREG_MED_INDICATORS/Figures/lastyear_SOCIB_transports_IbizaChannel.png",
+    "title": "Transports over the last year in the Ibiza channel",
+    "description": "Northward (positive) and southward (negative) water mass transports integrated for each transect monitored in the Ibiza Channels over the last year",
+    "created": "2021-02-11",
+    "modified": "2021-02-11",
+    "processing_level": "L4",
+    "equipmentType": ["glider", "CTD"],
+    "distribution": {
+        "_class": "Distribution",
+        "title": "Sub-regional Mediterranean sea indicators",
+        "description": "Products used: delayed-time & L1 products from SOCIB gliders; Diagnostics: transports of water masses in the Balearic Channels (Ibiza & Mallorca Channels) for the last year & the last decade (since 2011); Water masses: recent & modified Atlantic Water (AWr & AWo), Western Intermediate Water (WIW), Levantine Intermediate Water (LIW), Western Mediterranean Deep Water (WDW)",
+        "size": 274777,
+        "modified": "2021-02-11",
+        "access": "https://apps.socib.es/subregmed-indicators/transports.htm",
+        "download": "www.socib.es/XXXXXX/SUBREG_MED_INDICATORS/Figures/lastyear_SOCIB_transports_IbizaChannel.png"
+    },
+    "author": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "temporal": {
+        "_class": "PeriodOfTime",
+        "startDate": "2020-01-01",
+        "endDate": "2020-12-31"
+    },
+    "service": {
+        "_class": "Service",
+        "alias": "d2pts-glider-service"
+    }
+    "software": {
+        "_class: "SoftwareApplication",
+        "alias": "https://github.com/socib/water-mass-transport"
+    }
+}
