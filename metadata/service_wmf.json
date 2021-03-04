@@ -8,7 +8,7 @@
     "termsOfService": "Under Request",
     "equipmentType": "glider",
     "software": {
-        "_class": "SoftwareApplication",
+        "_class": "Software",
         "alias": "https://github.com/socib/water-mass-transport"
     },
     "provider": {
