@@ -5,7 +5,7 @@
     "serviceType": "D2PTS",
     "description": "This service calculates the water mass flow from glider profiles",
     "url": "https://www.socib.es/?seccion=textes&id_textotextes=localizacion",
-    "accessMode": "Under Request",
+    "termsOfService": "Under Request",
     "equipmentType": "glider",
     "software": {
         "_class": "SoftwareApplication",
