@@ -6,33 +6,29 @@
     "contributor": [
         {
             "_class": "Person",
-            "name": "Emma Heslop"
+            "name": "Emma Heslop <eheslop@imedea.uib‐csic.es>"
         },
         {
             "_class": "Person",
-            "name": "Simón Ruiz"
+            "name": "Simón Ruiz <simon.ruiz@imedea.uib-csic.es>"
         },
         {
             "_class": "Person",
-            "name": "John Allen"
+            "name": "Jose Luis López Jurado <lopez.jurado@ba.ieo.es>"
         },        {
             "_class": "Person",
-            "name": "Jose Luis López Jurado"
+            "name": "John Allen <jallen@socib.es>"
         },        {
             "_class": "Person",
-            "name": "John Allen"
-        },        {
-            "_class": "Person",
-            "name": "Lionel Renault"
+            "name": "Lionel Renault <lionel.renault@ird.fr>"
         },
         {
             "_class": "Person",
-            "name": "Joaquín Tintoré"
+            "name": "Joaquín Tintoré <jtintore@socib.es>"
         }
     ],
     "created": "2012-10-24",
     "modified": "2014-12-14",
-    "url": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
     "published": "2012-10-01",
     "publisher": {
         "_class": "Organization",

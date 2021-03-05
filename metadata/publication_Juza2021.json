@@ -5,11 +5,11 @@
     "contributor": [
         {
             "_class": "Person",
-            "name": "Mélanie Juza"
+            "name": "Mélanie Juza <mjuza@socib.es>"
         },
         {
             "_class": "Person",
-            "name": "Joaquín Tintoré"
+            "name": "Joaquín Tintoré <jtintore@socib.es>"
         }
     ],
     "created": "2021-01-01",

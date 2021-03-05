@@ -25,7 +25,7 @@
     },
     "contact": {
         "_class": "Person",
-        "name": "Mélanie Juza"
+        "name": "Mélanie Juza <mjuza@socib.es>"
     },
     "project": {
         "_class": "Project",
