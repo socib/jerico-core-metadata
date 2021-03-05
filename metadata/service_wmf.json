@@ -1,6 +1,6 @@
 {
     "_class": "Service",
-    "alias": "d2pts-glider-service",
+    "alias": "http://services.socib.es#d2pts-glider-service",
     "name": "Water mass transport calculation service",
     "serviceType": "D2PTS",
     "description": "This service calculates the water mass flow from glider profiles",

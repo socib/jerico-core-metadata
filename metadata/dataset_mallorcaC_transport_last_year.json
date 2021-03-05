@@ -35,10 +35,10 @@
     },
     "service": {
         "_class": "Service",
-        "alias": "d2pts-glider-service"
+        "alias": "http://services.socib.es#d2pts-glider-service"
     },
     "software": {
-        "_class": "SoftwareApplication",
+        "_class": "Software",
         "alias": "https://github.com/socib/water-mass-transport"
     }
 }

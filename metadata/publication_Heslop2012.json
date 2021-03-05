@@ -34,7 +34,7 @@
     "modified": "2014-12-14",
     "url": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
     "published": "2012-10-01",
-    "publiser": {
+    "publisher": {
         "_class": "Organization",
         "alias": "Geophysical Research Letters"
     },
@@ -46,6 +46,6 @@
         "accessURL": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053717",
         "bytesize": 573245,
         "format": "pdf",
-        "mimetype": "application/pdf",
+        "mimetype": "application/pdf"
     }
 }
