@@ -27,7 +27,7 @@
     },
     "distribution": {
         "_class": "Distribution",
-        "accessURL": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
+        "accessURL": "TBD.pdf",
         "bytesize": 1201444,
         "format": "pdf",
         "mimetype": "application/pdf"

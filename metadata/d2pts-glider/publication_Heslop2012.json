@@ -6,7 +6,7 @@
     "contributor": [
         {
             "_class": "Person",
-            "name": "Emma Heslop <e.heslop@unesco.org>"
+            "name": "Emma Heslop <eheslop@imedea.uib‐csic.es>"
         },
         {
             "_class": "Person",
@@ -19,20 +19,18 @@
             "_class": "Person",
             "name": "Jose Luis López Jurado <lopez.jurado@ba.ieo.es>"
         },
-        {
             "_class": "Person",
-            "name": "Lionel Renault <lrenault@atmos.ucla>"
+            "name": "Lionel Renault <lionel.renault@ird.fr>"
         },
         {
             "_class": "Person",
-            "name": "Joaquín Tintoré <jtintore@socin.es>"
+            "name": "Joaquín Tintoré <jtintore@socib.es>"
         }
     ],
     "created": "2012-10-24",
     "modified": "2014-12-14",
-    "url": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
     "published": "2012-10-01",
-    "publiser": {
+    "publisher": {
         "_class": "Organization",
         "name": "Geophysical Research Letters",
         "alias": "https://agupubs.onlinelibrary.wiley.com/journal/19448007"
