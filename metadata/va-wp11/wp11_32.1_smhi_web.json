@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://www.smhi.se",
+    "name": "SMHI web portal",
+    "service_type": "Web portal",
+    "description": "SMHI, the Swedish Meteorological and Hydrological Institute, is an expert agency under the Ministry of the Environment. Through unique expertise in meteorology, hydrology, oceanography and climatology, SMHI contributes towards greater public welfare, increased safety and a sustainable society.",
+    "url": "https://www.smhi.se",
+    "terms_of_service": "https://www.smhi.se/en/about-this-website/accessibility/accessibility-statements/accessibility-of-smhi-se-en-1.166881",
+    "equipment_type": [],
+    "status": "active",
+    "language": "Swedish",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/545"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/545"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Emilie Breviere <emilie.breviere@smhi.se>"
+        },
+        {
+            "_class": "Person",
+            "name": "Patrick Gorringe <patrick.Gorringe@smhi.se>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

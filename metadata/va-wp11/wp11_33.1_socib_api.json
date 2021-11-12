@@ -1,0 +1,32 @@
+{
+    "_class": "Service",
+    "alias": "http://api.socib.es",
+    "name": "SOCIB API",
+    "service_type": "API/Web service",
+    "description": "SOCIB data are published without any warranty, express or implied. The user assumes all risk arising from his/her use of SOCIB data. SOCIB data are intended to be research-quality and include estimates of data quality and accuracy, but it is possible that these estimates or the data themselves contain errors. It is the sole responsibility of the user to assess if the data are appropriate for his/her use, and to interpret the data, data quality, and data accuracy accordingly. SOCIB welcomes users to ask questions and report problems to the contact addresses listed in the data files or on the SOCIB internet page.",
+    "url": "http://api.socib.es",
+    "terms_of_service": "SOCIB data are published without any warranty, express or implied. The user assumes all risk arising from his/her use of SOCIB data. SOCIB data are intended to be research-quality and include estimates of data quality and accuracy, but it is possible that these estimates or the data themselves contain errors. It is the sole responsibility of the user to assess if the data are appropriate for his/her use, and to interpret the data, data quality, and data accuracy accordingly. SOCIB welcomes users to ask questions and report problems to the contact addresses listed in the data files or on the SOCIB internet page.",
+    "equipment_type": ["HFR", "glider", "vessel", "mooring", "weather station", "drifter"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": {
+        "_class": "Person",
+        "name": "Juan Gabriel Fernandez <jfernandez@socib.es>"
+    },
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

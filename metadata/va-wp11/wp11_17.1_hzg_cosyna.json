@@ -1,0 +1,47 @@
+{
+    "_class": "Service",
+    "alias": "https://www.hzg.de/institutes_platforms/cosyna/index.php.en",
+    "name": "COSYNA - Coastal Observing System for Northern and Arctic Seas",
+    "service_type": "Web portal",
+    "description": "It is COSYNA’s mission to develop and operate an integrated observing and modelling system suitable for investigating the environmental state and variability of coastal areas, with a focus on the North Sea and Arctic coastal waters.\nCOSYNA aims to provide data and knowledge tools to help evaluate the role of coastal systems for local and regional scientific questions and to provide authorities, industry, and the public with tools to plan and manage routine tasks, respond to emergency situations and to evaluate trends. COSYNA specifically develops scientific products and instruments, and provides its infrastructure to the scientific community.",
+    "url": "https://www.hzg.de/institutes_platforms/cosyna/index.php.en",
+    "terms_of_service": "https://www.hereon.de/innovation_transfer/communication_media/imprint/privacy_policy/index.php.en",
+    "equipment_type": ["gliders", "ferrybox", "cabled observatory", "Argo", "HFR"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/2842"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/2842"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Gisbert Breitbach <gisbert.breitbach@hzg.de>"
+        },    {
+            "_class": "Person",
+                "name": "Klas Ove Möller <klas.moeller@hzg.de>"
+        },    {
+            "_class": "Person",
+                "name": "Holger Brix <holger.brix@hzg.de>"
+        },    {
+            "_class": "Person",
+                "name": "Saskia Ruehl <saskia.ruehl@hzg.de>"
+        },
+        {
+            "_class": "Person",
+                "name": "David Kaiser <david.kaiser@hzg.de>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

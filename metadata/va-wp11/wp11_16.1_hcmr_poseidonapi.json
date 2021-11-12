@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://api.poseidon.hcmr.gr/swagger",
+    "name": "POSEIDON system API",
+    "service_type": "API/Web service",
+    "description": "The POSEIDON API lets you access the data of our database. The data sources come from observational platforms.",
+    "url": "https://api.poseidon.hcmr.gr/swagger",
+    "terms_of_service": "https://poseidon.hcmr.gr/terms-use-disclaimer",
+    "equipment_type": ["gliders", "ferrybox", "cabled observatory", "Argo", "HFR"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3051"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3051"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Maria Sotiropoulou <marsot@hcmr.gr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Leonidas Perivoliotis <lperiv@hcmr.gr>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

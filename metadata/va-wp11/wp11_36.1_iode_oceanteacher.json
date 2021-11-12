@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://classroom.oceanteacher.org",
+    "name": "OceanTeacher",
+    "service_type": "Capacity, Development and Training Portal",
+    "description": "OceanTeacher Global Academy provides a comprehensive web-based training platform that supports classroom training (face-to-face), blended training (combining classroom and distance learning), and online (distance) learning.\n\nOceanTeacher Global Academy courses cover a range of topics related to the IOC programmes, contributing to the IOC Mandate and the implementation of the IOC Capacity Development Strategy, enabling equitable participation of all IOC Member States and IOC Programmes.",
+    "url": "https://classroom.oceanteacher.org",
+    "terms_of_service": "https://classroom.oceanteacher.org/admin/tool/policy/viewall.php?returnurl=https%3A%2F%2Fclassroom.oceanteacher.org%2F",
+    "equipment_type": [],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1149"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1149"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+            "name": "Pauline Simpson <p.simpson@unesco.org>"
+        },
+        {
+            "_class": "Person",
+            "name": "Arno Lambert <a.lambert@unesco.org>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "_class": "Service",
+    "alias": "https://www.hidrografico.pt/index/en",
+    "name": "Hidrografico+",
+    "service_type": "Web portal",
+    "description": "Hydrographic Institute portal.",
+    "url": "https://www.hidrografico.pt/index/en",
+    "terms_of_service": "https://www.hidrografico.pt/op/48",
+    "equipment_type": ["gliders", "ferrybox", "cabled observatory", "Argo", "HFR"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/595"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/595"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Joao Vitorino <joao.vitorino@hidrografico.pt>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

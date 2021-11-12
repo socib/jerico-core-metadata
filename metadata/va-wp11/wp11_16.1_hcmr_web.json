@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "http://poseidon.hcmr.gr",
+    "name": "POSEIDON system portal",
+    "service_type": "Web portal",
+    "description": "The POSEIDON general aims are: (a) to establish a sustainable marine observing network in the Eastern Mediterranean, (b) to provide quality and validated forecasts of the marine environment, (c) to provide scientific knowledge and support on the study of the ocean mechanisms and their variability, as well as to address the sensitivity of marine ecosystem and biodiversity to combined natural forcing factors and anthropogenic pressures, and (d) to provide a technology test bed and services to marine policy-makers and the society. The system is being developed in accordance to the policy frameworks suggested by IOC/GOOS, EuroGOOS, MonGOOS and GEO while it maintains a balance between the operational and research character of the infrastructure through the integration of methodologies and tools developed in relevant EU initiatives and projects.",
+    "url": "http://poseidon.hcmr.gr",
+    "terms_of_service": "https://poseidon.hcmr.gr/terms-use-disclaimer",
+    "equipment_type": ["gliders", "ferrybox", "cabled observatory", "Argo", "HFR"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3051"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3051"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Maria Sotiropoulou <marsot@hcmr.gr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Leonidas Perivoliotis <lperiv@hcmr.gr>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

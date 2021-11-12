@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "http://radarhf.ismar.cnr.it",
+    "name": "TirLig HFR data visualization",
+    "service_type": "Visualization tool",
+    "description": "Service for access to HF radar data showing the last 48-hours surface current velocity maps of coastal area of the Ligurian Sea - Italy.",
+    "url": "http://radarhf.ismar.cnr.it",
+    "terms_of_service": "Not available",
+    "equipment_type": ["HFR"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/227"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/227"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Carlo Mantovani <carlo.mantovani@cnr.it>"
+        },
+        {
+            "_class": "Person",
+                "name": "Lorenzo Corgnati <lorenzo.corgnati@sp.ismar.cnr.it>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

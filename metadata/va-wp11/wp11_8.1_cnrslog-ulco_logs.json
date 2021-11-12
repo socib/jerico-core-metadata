@@ -1,0 +1,42 @@
+{
+    "_class": "Service",
+    "alias": "http://log.cnrs.fr",
+    "name": "laboratoire d’Océanologie et de Géosciences",
+    "service_type": "Web portal",
+    "description": "Le laboratoire LOG (laboratoire d’Océanologie et de Géosciences) est une unité de recherche qui associe le CNRS, l’Université de Lille, et l’Université du Littoral Côte d’Opale. Il s’agit d’une Unité Mixte de Recherche (UMR) contractualisée dans le cadre du contrat 2015-2019. Cette UMR a été créée en 2008.\n\nCette unité de recherche englobe l’ensemble des activités de recherche effectuées à la Station marine de Wimereux, à la Maison de la Recherche en Environnement Naturel (MREN), dans des bâtiments situés tous deux à Wimereux, côte-à-côte, avec des personnels hébergés dans le bâtiment SN5 sur le campus de Villeneuve d’Ascq de l’Université de Lille, et également quelques personnels hébergés à Dunkerque à la MREI.",
+    "url": "http://log.cnrs.fr",
+    "terms_of_service": "https://log.cnrs.fr/spip.php?page=credits&lang=fr",
+    "equipment_type": ["Cytometry", "Fluorometry"],
+    "status": "Under Construction",
+    "language": "French",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3188"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3188"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Luis Felipe Artigas <felipe.artigas@univ-littoral.fr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Guillaume Wacquet <Guillaume.Wacquet@univ-littoral.fr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Pierre-Alexandre Hebert <Pierre-Alexandre.Hebert@lisic.univ-littoral.fr>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

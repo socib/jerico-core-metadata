@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://taltech.ee/en/department-marine-systems/marine-information",
+    "name": "Keri Island research station e-infrastructure",
+    "service_type": "Web portal",
+    "description": "The Department of Marine Systems utilises autonomous measurement systems and platforms for monitoring the marine environmental status and its rapid fluctuations. The department regularly conducts high frequency measurements using Ferrybox systems deployed on commercial ferries, sensors on surface buoys, and water column measuring complexes. In addition, to increase the high resolution mapping of research areas, towable undulating systems are being used.\n\nMethods of remote sensing enable us to map different parameters on an extended sea area.\n\nInformation gathered by autonomous measuring systems is available almost near real time and the data is applied for day-to-day operating and developing of several forecasting models.",
+    "url": "https://taltech.ee/en/department-marine-systems/marine-information",
+    "terms_of_service": "https://taltech.ee/en/privacy-policy",
+    "equipment_type": [],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3400"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3400"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+            "name": "Taavi Liblik <taavi.liblik@taltech.ee>"
+        },
+        {
+            "_class": "Person",
+            "name": "Urmas Lips <urmas.lips@taltech.ee>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

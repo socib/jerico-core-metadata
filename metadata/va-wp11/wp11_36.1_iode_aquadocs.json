@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://aquadocs.org",
+    "name": "Aqua Docs",
+    "service_type": "Documentation Repository",
+    "description": "AquaDocs is the joint open access repository of the UNESCO/IOC InternationaI Oceanographic Data and Information Exchange (IODE) and the International Association of Aquatic and Marine Science Libraries and Information Centers (IAMSLIC) with support from the FAO Aquatic Sciences and Fisheries Abstracts. It is a thematic repository covering the natural marine, coastal, estuarine /brackish and fresh water environments and includes all aspects of the science, technology, management and conservation of these environments, their organisms and resources, and the economic, sociological and legal aspects.",
+    "url": "https://aquadocs.org",
+    "terms_of_service": "IOC/IODE and IAMSLIC do not warrant that the information, documents and materials contained in the AquaDocs repository website is complete and correct and shall not be liable whatsoever for any damages incurred as a result of its use.\n\nThe information, data, statements, geographical boundaries, maps and declarations expressed in documents in this repository do not imply the official endorsement or acceptance by UNESCO. Contributors to this repository are solely responsible for the contents of their uploaded documents, the inclusion of which in this repository does not mean the approval or acceptance by UNESCO.",
+    "equipment_type": [],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1149"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1149"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+            "name": "Pauline Simpson <p.simpson@unesco.org>"
+        },
+        {
+            "_class": "Person",
+            "name": "Arno Lambert <a.lambert@unesco.org>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

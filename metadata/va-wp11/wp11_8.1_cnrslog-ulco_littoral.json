@@ -1,0 +1,42 @@
+{
+    "_class": "Service",
+    "alias": "http://www-lisic.univ-littoral.fr",
+    "name": "Le Laboratoire d’Informatique Signal et Image de la Côte d’Opale - EA 4491",
+    "service_type": "Web portal",
+    "description": "Le Laboratoire d’Informatique Signal et Image de la Côte d’Opale.",
+    "url": "http://www-lisic.univ-littoral.fr",
+    "terms_of_service": "Not available",
+    "equipment_type": ["Modelling"],
+    "status": "Under construction",
+    "language": "French",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3188"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3188"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Luis Felipe Artigas <felipe.artigas@univ-littoral.fr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Guillaume Wacquet <Guillaume.Wacquet@univ-littoral.fr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Pierre-Alexandre Hebert <Pierre-Alexandre.Hebert@lisic.univ-littoral.fr>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

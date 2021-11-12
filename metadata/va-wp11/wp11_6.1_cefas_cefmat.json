@@ -1,0 +1,42 @@
+{
+    "_class": "Service",
+    "alias": "https://www.cefmat.org/AtlanticAssessments",
+    "name": "CefMAT Marine Atlantic Assessments",
+    "service_type": "Online service",
+    "description": "CefMAT is the Cefas Marine Assessment Tool providing scientists access to marine environmental assessments to address policy questions. CefMAT Atlantic Assessments offers a free service that provides data products to support marine assessments in relation to hydrographical conditions, water quality, eutrophication, biodiversity and marine food webs. It uses EO satelites and modelling data from Copernicus Marine Environment Monitoring Service (CMEMS) to provide tailored outputs to assess the state of the seas support the implementation of the Marine Strategy Framework Directive (MSFD).",
+    "url": "https://www.cefmat.org/AtlanticAssessments",
+    "terms_of_service": "https://www.cefmat.org/Account/TermsAndConditions",
+    "equipment_type": ["glider", "vessel", "mooring", "weather station", "drifter"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/28"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/28"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+            "name": "Emilie Poisson Caillault <emilie.poisson@univ-littoral.fr>"
+        },
+        {
+            "_class": "Person",
+            "name": "Alain Lefebvre <Alain.Lefebvre@ifremer.fr>"
+        },
+        {
+            "_class": "Person",
+            "name": "Luis Felipe Artigas <felipe.artigas@univ-littoral.fr>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

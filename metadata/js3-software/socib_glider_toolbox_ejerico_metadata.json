@@ -30,7 +30,7 @@
         },
         {
             "_class": "Person",
-            "name": "JuangaSocib"
+            "name": "Juan Gabriel Fernandez <jfernandez@socib.es>"
         }
     ],
     "description": "The glider toolbox is a set of MATLAB/Octave scripts and functions developed at SOCIB to manage the data collected by a glider fleet. They cover the main stages of the data management process both in real time and delayed time mode: metadata aggregation, data download, data processing, and generation of data products and figures.",

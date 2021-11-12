@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://sharkdata.smhi.se",
+    "name": "SHARKdata data service",
+    "service_type": "Data service",
+    "description": "SHARK (\"Svenskt HavsARKiv\" / \"Swedish Ocean Archive\") contains marine environmental monitoring data from the seas surrounding Sweden. SHARKweb is the main web application where it is possible to search and download data from SHARK.\n\nThis site (SHARKdata) is another way to access the same sets of data, but the target audience is other systems who wants to harvest data and use it, or publish the data in other systems, portals, etc.",
+    "url": "https://sharkdata.smhi.se",
+    "terms_of_service": "https://sharkdata.smhi.se/datapolicy/",
+    "equipment_type": [],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/545"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/545"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Emilie Breviere <emilie.breviere@smhi.se>"
+        },
+        {
+            "_class": "Person",
+            "name": "Patrick Gorringe <patrick.Gorringe@smhi.se>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

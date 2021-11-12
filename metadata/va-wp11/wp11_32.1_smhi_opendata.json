@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://opendata-view.smhi.se",
+    "name": "SMHI data service",
+    "service_type": "Data service",
+    "description": "SMHI data service",
+    "url": "https://opendata-view.smhi.se",
+    "terms_of_service": "Not available",
+    "equipment_type": [],
+    "status": "active",
+    "language": "Swedish",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/545"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/545"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Emilie Breviere <emilie.breviere@smhi.se>"
+        },
+        {
+            "_class": "Person",
+            "name": "Patrick Gorringe <patrick.Gorringe@smhi.se>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

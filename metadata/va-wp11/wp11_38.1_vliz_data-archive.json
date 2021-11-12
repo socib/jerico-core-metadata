@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://marinedataarchive.org",
+    "name": "Marine Data Archive",
+    "service_type": "Data service",
+    "description": "The Marine Data Archive is an archival platform that offers tools for storage, documentation and long-term preservation of raw or processed data files.",
+    "url": "https://marinedataarchive.org",
+    "terms_of_service": "https://marinedataarchive.org/mdadatapolicy.pdf",
+    "equipment_type": [],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/422"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/422"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+            "name": "Patricia Cabrera <patricia.cabrera@vliz.be>"
+        },
+        {
+            "_class": "Person",
+            "name": "Lennert Schepers <lennert.schepers@vliz.be>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "http://150.145.136.36",
+    "name": "EU HFR NODE centralized processing service",
+    "service_type": "Computing service",
+    "description": "Centralized service for automatically collecting HFR raw data from providers and for applying the European Common Data and Metadata Model for NRT HFR current data and the required QC tests on L2A and L3A HFR surface current data, following the guidelines described in JERICONEXT Deliverable 5.14.",
+    "url": "http://150.145.136.36",
+    "terms_of_service": "Not available",
+    "equipment_type": ["HFR"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/227"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/227"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Carlo Mantovani <carlo.mantovani@cnr.it>"
+        },
+        {
+            "_class": "Person",
+                "name": "Lorenzo Corgnati <lorenzo.corgnati@sp.ismar.cnr.it>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

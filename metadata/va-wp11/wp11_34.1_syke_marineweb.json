@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://www.marinefinland.fi/en-US/The_Baltic_Sea_now/Automatic_observations_from_ships",
+    "name": "SYKE Alg@line monitoring on merchant ships",
+    "service_type": "Web portal",
+    "description": "SYKE Alg@line monitoring on merchant ships.",
+    "url": "https://www.marinefinland.fi/en-US/The_Baltic_Sea_now/Automatic_observations_from_ships",
+    "terms_of_service": "https://www.marinefinland.fi/en-US/Accessibility_statement(57411)",
+    "equipment_type": ["ferrybox"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1104"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1104"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Jukka Seppala <jukka.seppala@ymparisto.fi>"
+        },
+        {
+            "_class": "Person",
+            "name": "Timo Tamminen <timo.tamminen@environment.fi>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

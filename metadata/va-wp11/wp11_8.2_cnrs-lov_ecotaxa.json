@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "https://ecotaxa.obs-vlfr.fr",
+    "name": "Ecotaxa",
+    "service_type": "Online service",
+    "description": "EcoTaxa is a web application dedicated to the visual exploration and the taxonomic annotation of images that illustrate the beauty of planktonic biodiversity.",
+    "url": "https://ecotaxa.obs-vlfr.fr",
+    "terms_of_service": "https://log.cnrs.fr/spip.php?page=credits&lang=fr",
+    "equipment_type": ["Plankton"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3188"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3188"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Marc Picheral <marc.picheral@obs-vlfr.fr>"
+        },
+        {
+            "_class": "Person",
+                "name": "Lars Stemmann <stemmann@obs-vlfr.fr>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

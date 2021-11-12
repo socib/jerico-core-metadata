@@ -1,0 +1,38 @@
+{
+    "_class": "Service",
+    "alias": "http://swell.fmi.fi/Uto",
+    "name": "Data from Utö Atmospheric and Marine Research Station.",
+    "service_type": "Online service",
+    "description": "These pages contain real-time data measured at the Utö Atmospheric and Marine Research Station located on Utö island at the outer edge of the Finnish archipelago. The station is operated by the Finnish Meteorological Institute (FMI) and the Finnish Environment Institute (SYKE).",
+    "url": "http://swell.fmi.fi/Uto",
+    "terms_of_service": "http://swell.fmi.fi/Uto/accessibility.html",
+    "equipment_type": ["Weather Station"],
+    "status": "active",
+    "language": "English",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1725"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1725"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": [
+        {
+            "_class": "Person",
+                "name": "Lauri Laakso <lauri.laakso@fmi.fi>"
+        },
+        {
+            "_class": "Person",
+                "name": "Milla Johansson <milla.johansson@fmi.fi>"
+        }
+    ],
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

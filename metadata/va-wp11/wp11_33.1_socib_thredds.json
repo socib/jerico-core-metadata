@@ -1,0 +1,36 @@
+{
+    "_class": "Service",
+    "alias": "https://thredds.socib.es",
+    "name": "SOCIB Thredds Service",
+    "service_type": "Data service",
+    "description": "The SOCIB Thredds Data Server allows downloading and accessing the SOCIB Data Repository through a variety of standard protocols such as OpeNDAP and WMS. The present catalog structure responds to operations and therefore it might result complex for average users. Please, visitig SOCIB Data Catalog instead for more friendly interface in this regard.",
+    "url": "https://thredds.socib.es",
+    "terms_of_service": "SOCIB data are published without any waranty, express or implied. The usr assumes all risk arising from his/her use of  SOCIB data. SOCIB data are intended to be research-quality and include estimates of data quality and accuracy, but it is possible that these estimates or the data themselves contain errors. It is the sole responsibility of th user to assess if the data are appropriate for his/her use, and to interpret the data, data quality and data accuracy accordingly. SOCIB welcomes users to ask questions and report problems to the contact address listed in the data files or the sSOCIB internet page.",
+    "equipment_type": ["HFR", "glider", "vessel", "mooring", "weather station", "drifter"],
+    "status": "active",
+    "language": "English",
+    "software": {
+        "_class": "Software",
+        "alias": "https://github.com/socib/thredds"
+    },
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2010-01-01"
+    },
+    "contact": {
+        "_class": "Person",
+            "name": "Juan Gabriel Fernandez <jfernandez@socib.es>"
+    },
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}
