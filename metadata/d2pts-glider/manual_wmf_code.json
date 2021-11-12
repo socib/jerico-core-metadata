@@ -1,17 +1,17 @@
 {
     "_class": "Document",
     "alias": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf", 
-    "title": "PRODUCT USER MANUAL Sub-regional Mediterranean Seaindicators",
-    "abstract": "The “Sub-regional  Mediterranean  Sea  Indicators”toolis  dedicated  to  the  monitoring  and visualization of multivariate and sub-regional ocean indicators in the Mediterranean Sea and around the Balearic Islands(see sub-regions in Figure 1). This operational product consists in providing continuous information about the ocean state and variability from daily (events) to interannual/decadal (climate) scalesin a simple way that could be consulted by the scientific community, educators in marine science and environmental agencies. ",
+    "title": "PRODUCT USER MANUAL Sub-regional Mediterranean Sea indicators",
+    "abstract": "The “Sub-regional  Mediterranean  Sea  Indicators” tool is  dedicated  to  the  monitoring  and visualization of multivariate and sub-regional ocean indicators in the Mediterranean Sea and around the Balearic Islands(see sub-regions in Figure 1). This operational product consists in providing continuous information about the ocean state and variability from daily (events) to interannual/decadal (climate) scalesin a simple way that could be consulted by the scientific community, educators in marine science and environmental agencies. ",
     "citation": "Juza,  M.,and  Tintoré,  J.  (2021).  Multivariate  sub-regional  ocean  indicators  in  the Mediterranean:  from  event  detection  to  climate  change  estimations.Frontiers  in  Marine Science, in revision.",
     "contributor": [
         {
             "_class": "Person",
-            "name": "Mélanie Juza"
+            "name": "Mélanie Juza <mjuza@socib.es>"
         },
         {
             "_class": "Person",
-            "name": "Joaquín Tintoré"
+            "name": "Joaquín Tintoré <jtintore@socib.es>"
         }
     ],
     "url": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
@@ -21,12 +21,15 @@
         "alias": "https://edmo.seadatanet.org/report/3410"
     },
     "pages": 7,
-    "software": "https://github.com/socib/water-mass-transport",
+    "software": {
+        "_class": "Software",
+        "alias": "https://github.com/socib/water-mass-transport"
+    },
     "distribution": {
         "_class": "Distribution",
         "accessURL": "https://apps.socib.es/subregmed-indicators/PUM_Subregional_MedSea_Indicators.pdf",
         "bytesize": 1201444,
         "format": "pdf",
-        "mimetype": "application/pdf",
+        "mimetype": "application/pdf"
     }
 }

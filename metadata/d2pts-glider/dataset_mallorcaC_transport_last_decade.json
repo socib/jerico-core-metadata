@@ -1,8 +1,8 @@
 {
     "_class": "Dataset",
-    "alias": "SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201102.png",
+    "alias": "https://www.socib.es/users/mjuza/SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201102.png",
     "title": "Transports over the last decade in the Mallorca channel",
-    "description": "Northward (positive) and southward (negative) water mass transports integrated for each transect monitored in the Mallorca Channels since 2011",
+    "summary": "Northward (positive) and southward (negative) water mass transports integrated for each transect monitored in the Mallorca Channels since 2011",
     "created": "2021-02-11",
     "modified": "2021-02-11",
     "processing_level": "L4",
@@ -14,7 +14,7 @@
         "size": 258880,
         "modified": "2021-02-11",
         "access": "https://apps.socib.es/subregmed-indicators/transports.htm",
-        "download": "www.socib.es/XXXXXX/SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201102.png"
+        "download": "https://www.socib.es/users/mjuza/SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201102.png"
     },
     "author": {
         "_class": "Organization",
@@ -33,12 +33,41 @@
         "startDate": "2011-01-01",
         "endDate": "2020-12-31"
     },
+    "spatial": {
+        "_class": "Spatial",
+        "min_latitude": "38.59",
+        "max_latitude": "39.23",
+        "min_longitude": "0.20",
+        "max_longitude": "1.40"
+    },
     "service": {
         "_class": "Service",
-        "alias": "d2pts-glider-service"
+        "alias": "https://apps.socib.es/d2pts-glider-service"
     },
     "software": {
-        "_class": "SoftwareApplication",
+        "_class": "Software",
         "alias": "https://github.com/socib/water-mass-transport"
-    }
+    },
+    "platform": [
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/f5b095ed152f55080ef343b0810fc43539d4f1f6"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/c69e17c2af8435ac13b99d1695c091f352736fb7"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/83617d0ad243197eebf50efd0355035de4d495d5"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/b215c18d375af0159c6624a11c771bc91c4c63e2"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/07ab631d72c4ca784b12aa3e380f3e4d60c79e87"
+        }
+    ]
 }

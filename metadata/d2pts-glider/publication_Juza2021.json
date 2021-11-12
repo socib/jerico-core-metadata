@@ -1,0 +1,64 @@
+{
+    "_class": "Document",
+    "alias": "https://doi.org/10.3389/fmars.2021.610589",
+    "title": "Multi-variate sub-regional indicators in the Mediterranean Sea: from event detection to climate change estimations.",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Mélanie Juza <mjuza@socib.es>"
+        },
+        {
+            "_class": "Person",
+            "name": "Joaquín Tintoré <jtintore@socib.es>"
+        }
+    ],
+    "created": "2021-01-01",
+    "publisher": {
+        "_class": "Organization",
+        "name": "Frontiers",
+        "alias": "https://www.frontiersin.org/"
+    },
+    "pages": 7,
+    "software": {
+        "_class": "Software",
+        "alias": "https://github.com/socib/water-mass-transport"
+    },
+    "dataset": [
+        {
+            "_class": "Dataset",
+            "alias": "https://www.socib.es/users/mjuza/SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_IbizaChannel_since201101.png"
+        },
+        {
+            "_class": "Dataset",
+            "alias": "https://www.socib.es/users/mjuza/SUBREG_MED_INDICATORS/Figures/timeserie_SOCIB_transports_MallorcaChannel_since201102.png"
+        }
+    ],
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://www.frontiersin.org/articles/10.3389/fmars.2021.610589/full",
+        "format": "pdf",
+        "mimetype": "application/pdf"
+    },
+    "platform": [
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/f5b095ed152f55080ef343b0810fc43539d4f1f6"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/c69e17c2af8435ac13b99d1695c091f352736fb7"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/83617d0ad243197eebf50efd0355035de4d495d5"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/b215c18d375af0159c6624a11c771bc91c4c63e2"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/07ab631d72c4ca784b12aa3e380f3e4d60c79e87"
+        }
+    ]
+}

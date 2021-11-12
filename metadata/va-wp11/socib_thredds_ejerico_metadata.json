@@ -1,0 +1,51 @@
+{
+    "_class": "Software",
+    "alias": "https://github.com/socib/thredds",
+    "abstract": "Thredds and netCDF-Java (CDM) ",
+    "author": {
+        "_class": "Person",
+        "alias": "Christian Wardgar"
+    },
+    "created": "2012-03-06",
+    "contributor": [
+        {
+            "_class": "Person",
+            "name": "Christian Wardgar"
+        },
+        {
+            "_class": "Organization",
+            "name": "https://edmo.seadatanet.org/report/3410"
+        }
+    ],
+    "description": "The THREDDS project is developing middleware to bridge the gap between data providers and data users. The goal is to simplify the discovery and use of scientific data and to allow scientific publications and educational materials to reference scientific data. The mission of THREDDS is for students, educators and researchers to publish, contribute, find, and interact with data relating to the Earth system in a convenient, effective, and integrated fashion.",
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://github.com/socib/glider_toolbox"
+    },
+    "distribution": {
+        "_class": "Distribution",
+        "accessURL": "https://www.unidata.ucar.edu/downloads/tds/"
+    },
+    "downloadURL": "https://github.com/socib/thredds/archive/refs/heads/master.zip",
+    "keywords": [],
+    "language": ["English"],
+    "license": "",
+    "modified": "20173-03-19",
+    "name": "Unidata's THREDDS Project",
+    "organization": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3854"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3854"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3854"
+    },
+    "published": "2014-08-07",
+    "programming_language": ["Java", "HTML", "C", "XSLT", "JavaScript", "CSS", "Other"],
+    "url": "https://github.com/socib/thredds",
+    "version": "v4.3.16"
+}

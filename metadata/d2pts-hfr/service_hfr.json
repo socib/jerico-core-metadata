@@ -1,0 +1,30 @@
+{
+    "_class": "Service",
+    "alias": "https://www.azti.es/en/research-areas/operational-oceanography-services/d2pts-hfr-service",
+    "name": "HFR gap filled surface current data products",
+    "service_type": "D2PTS",
+    "description": "Physical oceanography products from HF Radar data to provide gap filled surface current data products, potentially transferable to CMEMS in the future.",
+    "url": "https://os.copernicus.org/articles/14/827/2018/",
+    "terms_of_service": "Under Request",
+    "equipment_type": "HFR",
+    "provider": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1623"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/1623"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "startDate": "2021-01-01"
+    },
+    "contact": {
+        "_class": "Person",
+        "name": "Julien Mader <jmader@azti.es>"
+    },
+    "project": {
+        "_class": "Project",
+        "alias": "https://edmerp.seadatanet.org/report/12458"
+    }
+}

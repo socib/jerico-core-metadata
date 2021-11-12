@@ -1,0 +1,73 @@
+{
+    "_class": "Dataset",
+    "alias": "https://www.socib.es/users/mjuza/SUBREG_MED_INDICATORS/Figures/lastyear_SOCIB_transports_IbizaChannel.png",
+    "title": "Transports over the last year in the Ibiza channel",
+    "summary": "Northward (positive) and southward (negative) water mass transports integrated for each transect monitored in the Ibiza Channels over the last year",
+    "created": "2021-02-11",
+    "modified": "2021-02-11",
+    "processing_level": "L4",
+    "equipment": ["glider", "CTD"],
+    "distribution": {
+        "_class": "Distribution",
+        "title": "Sub-regional Mediterranean sea indicators",
+        "description": "Products used: delayed-time & L1 products from SOCIB gliders; Diagnostics: transports of water masses in the Balearic Channels (Ibiza & Mallorca Channels) for the last year & the last decade (since 2011); Water masses: recent & modified Atlantic Water (AWr & AWo), Western Intermediate Water (WIW), Levantine Intermediate Water (LIW), Western Mediterranean Deep Water (WDW)",
+        "size": 274777,
+        "modified": "2021-02-11",
+        "access": "https://apps.socib.es/subregmed-indicators/transports.htm",
+        "download": "https://www.socib.es/users/mjuza/SUBREG_MED_INDICATORS/Figures/lastyear_SOCIB_transports_IbizaChannel.png"
+    },
+    "author": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "publisher": {
+        "_class": "Organization",
+        "alias": "https://edmo.seadatanet.org/report/3410"
+    },
+    "temporal": {
+        "_class": "PeriodOfTime",
+        "startDate": "2020-01-01",
+        "endDate": "2020-12-31"
+    },
+    "spatial": {
+        "_class": "Spatial",
+        "min_latitude": "38.59",
+        "max_latitude": "39.23",
+        "min_longitude": "0.20",
+        "max_longitude": "1.40"
+    },
+    "service": {
+        "_class": "Service",
+        "alias": "https://apps.socib.es/d2pts-glider-service"
+    },
+    "software": {
+        "_class": "Software",
+        "alias": "https://github.com/socib/water-mass-transport"
+    },
+    "platform": [
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/f5b095ed152f55080ef343b0810fc43539d4f1f6"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/c69e17c2af8435ac13b99d1695c091f352736fb7"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/83617d0ad243197eebf50efd0355035de4d495d5"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/b215c18d375af0159c6624a11c771bc91c4c63e2"
+        },
+        {
+            "_class": "Platform",
+            "alias": "http://www.ejerico.org/platform/07ab631d72c4ca784b12aa3e380f3e4d60c79e87"
+        }
+    ]
+}
