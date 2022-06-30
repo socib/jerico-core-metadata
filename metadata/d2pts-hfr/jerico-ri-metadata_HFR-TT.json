@@ -1,0 +1,34 @@
+{
+    "_class": "Service",
+    "alias": "https://www.azti.es/en/research-areas/operational-oceanography-services/d2pts-hfr-services",
+    "service_type": "D2PTS",
+    "description": "European High Frequency Radars (HFR) Task-Team",
+    "url": "https://eurogoos.eu/high-frequency-radar-task-team/",
+    "terms_of_service": "Under Request",
+    "equipment_type": "HFR",
+    "provider": {
+        "_class": "Organization",
+        "identifier": [
+            {
+                "_class": "Identifier",
+                "system": "EDMO",
+                "code": "1623"
+            }
+        ]
+    },
+    "owner": {
+        "_class": "Organization",
+        "alias": [
+            "https://edmo.seadatanet.org/report/1623"
+        ],
+        "url": "http://www.azti.es"
+    },
+    "temporal": {
+        "_class": "Temporal",
+        "start_date": "2021-11-10"
+    },
+    "contact": {
+        "_class": "Person",
+        "name": "Julien Mader <jmader@azti.es>"
+    }
+}
